@@ -1,0 +1,57 @@
+{
+	"profile":{
+		"img":"chitti.jpg",
+	"name":"RamyaTejaswi",
+	"roll":"16NN1A1227",
+	"institute":"vignan nirula",
+	"place":"guntur"
+		},
+		"career":{
+		"info":"To secure a challenging position in a reputable organization to expand my learnings, knowledge, and skills"
+	},
+
+"educational":[
+	{
+		"degree":"b.tech",
+		"institute":"vignan",
+		"yop":"2020"
+
+	},
+	{
+		"degree":"intermediate",
+		"institute":"umamaheswara",
+		"yop":"2016"
+	},
+	{
+		"degree":"s.s.c",
+		"institute":"nethagi high school",
+		"yop":"2014"
+
+	}
+],
+"languages":[
+	{
+		"lang":"english"
+	},
+	{
+		"lang":"telugu"
+	},
+	{
+		"lang":"hindi"
+	}
+],
+"skills":[
+	{
+		"title":"platforms",
+		"content":"windows,linux"
+},
+{
+	"title":"programming languages",
+	"content":"c,c++,java"
+},
+{
+	"title":"database",
+	"content":"mysql"
+}
+]
+}
